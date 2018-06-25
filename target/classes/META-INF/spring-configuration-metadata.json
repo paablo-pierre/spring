@@ -1,0 +1,24 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.example.teste.springTeste.config.property.AlgaMoneyApiProperty",
+      "name": "algamoney",
+      "type": "com.example.teste.springTeste.config.property.AlgaMoneyApiProperty"
+    },
+    {
+      "sourceType": "com.example.teste.springTeste.config.property.AlgaMoneyApiProperty",
+      "name": "algamoney.seguranca",
+      "sourceMethod": "getSeguranca()",
+      "type": "com.example.teste.springTeste.config.property.AlgaMoneyApiProperty$Seguranca"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.example.teste.springTeste.config.property.AlgaMoneyApiProperty$Seguranca",
+      "defaultValue": false,
+      "name": "algamoney.seguranca.enable-https",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
