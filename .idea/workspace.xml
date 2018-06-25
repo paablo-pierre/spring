@@ -91,40 +91,17 @@
       <file leaf-file-name="application-prod.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="37" selection-start-column="37" selection-end-column="37" />
+            <state relative-caret-position="102">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CorsFilter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/cors/CorsFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlgaMoneyApiProperty.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/config/property/AlgaMoneyApiProperty.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -176,12 +153,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/resource/LancamentoResource.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/SpringTesteApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-prod.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/resource/TokenResource.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/token/RefreshTokenPostProcessor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/config/property/AlgaMoneyApiProperty.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/cors/CorsFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -210,10 +187,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="763" />
-    <option name="y" value="27" />
+    <option name="x" value="922" />
     <option name="width" value="943" />
-    <option name="height" value="833" />
+    <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,8 +197,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -452,12 +428,12 @@
       <workItem from="1529410027990" duration="6472000" />
       <workItem from="1529494526085" duration="10604000" />
       <workItem from="1529585386513" duration="5037000" />
-      <workItem from="1529931474220" duration="1362000" />
+      <workItem from="1529931474220" duration="3978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57079000" />
+    <option name="totallyTimeSpent" value="59695000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -469,7 +445,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="763" y="27" width="943" height="833" extended-state="0" />
+    <frame x="922" y="0" width="943" height="1087" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -490,8 +466,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32572615" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32984293" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.34379458" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973822" weight="0.34165722" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34379458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.33861834" />
       <window_info anchor="right" id="Bean Validation" order="3" weight="0.32992035" />
       <window_info id="Web" order="2" side_tool="true" weight="0.32992035" />
       <window_info id="Learn" order="2" sideWeight="0.49842933" weight="0.32992035" />
@@ -869,13 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/resource/TokenResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -895,17 +864,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/cors/CorsFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="714">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/teste/springTeste/cors/CorsFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-prod.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
         </state>
       </provider>
     </entry>
